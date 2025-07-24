@@ -1,0 +1,89 @@
+2025-06-20 03:54:40,456 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x10f250b20>,), kwargs={}
+2025-06-20 03:54:40,456 - INFO - get_financial_summary called with args=(<finance_tracker.FinanceAnalyzer object at 0x112a8ec40>,), kwargs={}
+2025-06-20 03:54:40,456 - INFO - get_financial_summary called with args=(<finance_tracker.FinanceTracker object at 0x112008970>,), kwargs={}
+2025-06-20 03:54:40,459 - INFO - load_budgets called with args=(<finance_tracker.BudgetManager object at 0x112a58a30>,), kwargs={}
+2025-06-20 03:54:40,459 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x10f250b20>,), kwargs={}
+2025-06-20 03:54:40,459 - INFO - get_budget_status called with args=(<finance_tracker.FinanceTracker object at 0x112008970>,), kwargs={}
+2025-06-20 03:54:40,464 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x10f250b20>,), kwargs={}
+2025-06-20 03:54:40,464 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x112008970>,), kwargs={}
+2025-06-20 03:54:46,458 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x135f0f7c0>,), kwargs={}
+2025-06-20 03:54:46,458 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x135f0f820>,), kwargs={}
+2025-06-20 03:55:26,393 - INFO - add_transaction called with args=(<finance_tracker.TransactionManager object at 0x13628ba30>, '2025-06-20', 0.01, 'Salary', 'income', 'Salary income for this'), kwargs={}
+2025-06-20 03:55:26,393 - INFO - add_transaction called with args=(<finance_tracker.FinanceTracker object at 0x10e1883d0>, '2025-06-20', 0.01, 'Salary', 'income', 'Salary income for this'), kwargs={}
+2025-06-20 03:55:26,394 - ERROR - Failed to add transaction: module 'streamlit' has no attribute 'experimental_rerun'
+2025-06-20 03:55:26,397 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x13628ba30>,), kwargs={}
+2025-06-20 03:55:26,397 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x10e1883d0>,), kwargs={}
+2025-06-20 03:55:30,710 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x1362ce2e0>,), kwargs={}
+2025-06-20 03:55:30,710 - INFO - get_financial_summary called with args=(<finance_tracker.FinanceAnalyzer object at 0x136328250>,), kwargs={}
+2025-06-20 03:55:30,710 - INFO - get_financial_summary called with args=(<finance_tracker.FinanceTracker object at 0x1362ceb50>,), kwargs={}
+2025-06-20 03:55:30,713 - INFO - load_budgets called with args=(<finance_tracker.BudgetManager object at 0x136328eb0>,), kwargs={}
+2025-06-20 03:55:30,713 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x1362ce2e0>,), kwargs={}
+2025-06-20 03:55:30,713 - INFO - get_budget_status called with args=(<finance_tracker.FinanceTracker object at 0x1362ceb50>,), kwargs={}
+2025-06-20 03:55:30,717 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x1362ce2e0>,), kwargs={}
+2025-06-20 03:55:30,717 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x1362ceb50>,), kwargs={}
+2025-06-20 03:59:44,091 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x13604fd90>,), kwargs={}
+2025-06-20 03:59:44,091 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x13604fe50>,), kwargs={}
+2025-06-20 04:00:12,386 - INFO - load_budgets called with args=(<finance_tracker.BudgetManager object at 0x1362736d0>,), kwargs={}
+2025-06-20 04:00:12,386 - INFO - get_budgets called with args=(<finance_tracker.FinanceTracker object at 0x10e19ea00>,), kwargs={}
+2025-06-20 04:00:22,602 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x13628b250>,), kwargs={}
+2025-06-20 04:00:22,615 - INFO - generate_monthly_report called with args=(<finance_tracker.FinanceAnalyzer object at 0x13628bf40>,), kwargs={}
+2025-06-20 04:00:22,615 - INFO - get_monthly_report called with args=(<finance_tracker.FinanceTracker object at 0x13628ba90>,), kwargs={}
+2025-06-20 04:00:22,616 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x13628b250>,), kwargs={}
+2025-06-20 04:00:22,619 - INFO - generate_category_report called with args=(<finance_tracker.FinanceAnalyzer object at 0x13628bf40>,), kwargs={}
+2025-06-20 04:00:22,619 - INFO - get_category_report called with args=(<finance_tracker.FinanceTracker object at 0x13628ba90>,), kwargs={}
+2025-06-20 04:00:22,619 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x13628b250>,), kwargs={}
+2025-06-20 04:00:22,647 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 04:00:22,648 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 04:00:22,649 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 04:00:22,649 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-20 04:00:22,833 - INFO - load_budgets called with args=(<finance_tracker.BudgetManager object at 0x13628b940>,), kwargs={}
+2025-06-20 04:00:23,083 - INFO - generate_plots called with args=(<finance_tracker.FinanceAnalyzer object at 0x13628bf40>,), kwargs={}
+2025-06-20 04:00:23,083 - INFO - get_visualizations called with args=(<finance_tracker.FinanceTracker object at 0x13628ba90>,), kwargs={}
+2025-06-20 04:00:39,240 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x13649c160>,), kwargs={}
+2025-06-20 04:00:39,240 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x13649c8b0>,), kwargs={}
+2025-06-20 04:00:40,154 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x136239e80>,), kwargs={}
+2025-06-20 04:00:40,154 - INFO - get_financial_summary called with args=(<finance_tracker.FinanceAnalyzer object at 0x13649cd00>,), kwargs={}
+2025-06-20 04:00:40,154 - INFO - get_financial_summary called with args=(<finance_tracker.FinanceTracker object at 0x136239670>,), kwargs={}
+2025-06-20 04:00:40,157 - INFO - load_budgets called with args=(<finance_tracker.BudgetManager object at 0x13649cf70>,), kwargs={}
+2025-06-20 04:00:40,158 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x136239e80>,), kwargs={}
+2025-06-20 04:00:40,158 - INFO - get_budget_status called with args=(<finance_tracker.FinanceTracker object at 0x136239670>,), kwargs={}
+2025-06-20 04:00:40,163 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x136239e80>,), kwargs={}
+2025-06-20 04:00:40,163 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x136239670>,), kwargs={}
+2025-06-20 04:00:41,619 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x1363ac880>,), kwargs={}
+2025-06-20 04:00:41,620 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x136239fd0>,), kwargs={}
+2025-06-20 04:00:53,609 - INFO - add_transaction called with args=(<finance_tracker.TransactionManager object at 0x13649c520>, '2025-06-20', 0.01, 'Groceries', 'income', 'groceries'), kwargs={}
+2025-06-20 04:00:53,609 - INFO - add_transaction called with args=(<finance_tracker.FinanceTracker object at 0x136239610>, '2025-06-20', 0.01, 'Groceries', 'income', 'groceries'), kwargs={}
+2025-06-20 04:00:53,610 - ERROR - Failed to add transaction: module 'streamlit' has no attribute 'experimental_rerun'
+2025-06-20 04:00:53,612 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x13649c520>,), kwargs={}
+2025-06-20 04:00:53,612 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x136239610>,), kwargs={}
+2025-06-20 04:03:19,427 - INFO - add_transaction called with args=(<finance_tracker.TransactionManager object at 0x13649cca0>, '2025-06-20', 3000.0, 'Salary', 'income', 'Monthly salary from Company XYZ'), kwargs={}
+2025-06-20 04:03:19,427 - INFO - add_transaction called with args=(<finance_tracker.FinanceTracker object at 0x136494ac0>, '2025-06-20', 3000.0, 'Salary', 'income', 'Monthly salary from Company XYZ'), kwargs={}
+2025-06-20 04:03:19,427 - ERROR - Failed to add transaction: module 'streamlit' has no attribute 'experimental_rerun'
+2025-06-20 04:03:19,430 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x13649cca0>,), kwargs={}
+2025-06-20 04:03:19,430 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x136494ac0>,), kwargs={}
+2025-06-20 04:07:14,121 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x1364b5f10>,), kwargs={}
+2025-06-20 04:07:14,121 - INFO - get_financial_summary called with args=(<finance_tracker.FinanceAnalyzer object at 0x1364b5f40>,), kwargs={}
+2025-06-20 04:07:14,122 - INFO - get_financial_summary called with args=(<finance_tracker.FinanceTracker object at 0x1364b5fd0>,), kwargs={}
+2025-06-20 04:07:14,124 - INFO - load_budgets called with args=(<finance_tracker.BudgetManager object at 0x1364b5f70>,), kwargs={}
+2025-06-20 04:07:14,124 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x1364b5f10>,), kwargs={}
+2025-06-20 04:07:14,125 - INFO - get_budget_status called with args=(<finance_tracker.FinanceTracker object at 0x1364b5fd0>,), kwargs={}
+2025-06-20 04:07:14,129 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x1364b5f10>,), kwargs={}
+2025-06-20 04:07:14,129 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x1364b5fd0>,), kwargs={}
+2025-06-20 04:07:18,335 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x10e1ba8e0>,), kwargs={}
+2025-06-20 04:07:18,336 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x1363e27c0>,), kwargs={}
+2025-06-20 04:07:32,025 - INFO - add_transaction called with args=(<finance_tracker.TransactionManager object at 0x135cd68b0>, '2025-06-20', 0.01, 'Groceries', 'income', 'dddd'), kwargs={}
+2025-06-20 04:07:32,025 - INFO - add_transaction called with args=(<finance_tracker.FinanceTracker object at 0x136481a00>, '2025-06-20', 0.01, 'Groceries', 'income', 'dddd'), kwargs={}
+2025-06-20 04:07:33,069 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x136481910>,), kwargs={}
+2025-06-20 04:07:33,069 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x1364818b0>,), kwargs={}
+2025-06-20 04:07:34,568 - INFO - add_transaction called with args=(<finance_tracker.TransactionManager object at 0x1364a5490>, '2025-06-20', 0.01, 'Groceries', 'income', 'dddd'), kwargs={}
+2025-06-20 04:07:34,568 - INFO - add_transaction called with args=(<finance_tracker.FinanceTracker object at 0x135cd6160>, '2025-06-20', 0.01, 'Groceries', 'income', 'dddd'), kwargs={}
+2025-06-20 04:07:35,618 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x135cd6d90>,), kwargs={}
+2025-06-20 04:07:35,618 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x135cd6c70>,), kwargs={}
+2025-06-20 04:07:39,866 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x136207ac0>,), kwargs={}
+2025-06-20 04:07:39,866 - INFO - get_financial_summary called with args=(<finance_tracker.FinanceAnalyzer object at 0x136481940>,), kwargs={}
+2025-06-20 04:07:39,866 - INFO - get_financial_summary called with args=(<finance_tracker.FinanceTracker object at 0x1362077c0>,), kwargs={}
+2025-06-20 04:07:39,869 - INFO - load_budgets called with args=(<finance_tracker.BudgetManager object at 0x136481490>,), kwargs={}
+2025-06-20 04:07:39,869 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x136207ac0>,), kwargs={}
+2025-06-20 04:07:39,869 - INFO - get_budget_status called with args=(<finance_tracker.FinanceTracker object at 0x1362077c0>,), kwargs={}
+2025-06-20 04:07:39,874 - INFO - load_transactions called with args=(<finance_tracker.TransactionManager object at 0x136207ac0>,), kwargs={}
+2025-06-20 04:07:39,874 - INFO - get_transactions called with args=(<finance_tracker.FinanceTracker object at 0x1362077c0>,), kwargs={}

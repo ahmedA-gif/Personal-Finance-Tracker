@@ -1,0 +1,20 @@
+id,date,amount,category,type,description
+ef3da48d-eb3d-4172-b2b1-18d2c77e4cc0,2025-06-20,0.01,groceries,income,groceries transaction
+f1e14fbb-ea36-4760-8997-21da8997b60c,2025-06-20,22.0,salary,income,
+75f81515-9e93-4ff2-b39d-9ad164b4c42c,2025-06-20,22.0,salary,income,scads
+513d1fc3-9f72-425f-b30e-bb647acc5f9a,2025-06-20,22.0,salary,income,scads
+df09d89f-a6a5-4319-852b-0b9afa954693,2025-06-20,22.0,salary,income,scads
+dffef334-711a-4f72-b16b-6aeecc510d3e,2025-06-20,0.01,Groceries,income,ksdancanc
+004f5249-93b5-4626-b4da-332f5f2a54ae,2025-06-20,0.01,,income,
+284d9796-0dcd-48c9-a9d4-ff382982d7fc,2025-06-20,0.01,,income,scscsdvdf
+50979989-2b12-40f2-b3cf-e8621fe7da52,2025-06-20,0.01,cddvd,income,scscsdvdf
+4eee5799-5a98-4bd1-afe5-85b0bc5001eb,2025-06-20,0.01,Groceries,income,fesfsfswef
+993a1998-0550-4177-acc2-ddab5dd69f06,2025-06-20,0.01,Groceries,expense,fesfsfswef
+5cfe7c24-dece-4111-90c5-b2b0892d1652,2025-06-20,0.01,groceries,income,mdvnxz
+6d999824-e258-4664-8a57-fbfb223356e0,2025-06-20,0.01,Groceries,income,jsnajncjsa
+ca1ae1e7-0ac1-45d5-ada2-62ca31657f5f,2025-06-20,0.01,rent,income,
+06a24aed-941f-4d9a-8315-7d62f2778916,2025-06-20,0.01,Salary,income,Salary income for this
+e9491ca1-a34f-4ea9-84f1-427abb7a1755,2025-06-20,0.01,Groceries,income,groceries
+2613715b-ed9e-4043-b32c-17b350a4ca78,2025-06-20,3000.0,Salary,income,Monthly salary from Company XYZ
+1524aa26-55f3-47a3-9f67-b7f34914c67f,2025-06-20,0.01,Groceries,income,dddd
+02015174-f327-410e-ae00-169399fe2794,2025-06-20,0.01,Groceries,income,dddd
